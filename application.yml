@@ -1,3 +1,6 @@
 spring:
   application:
     name: config-analytics
+
+service:
+  name: default
